@@ -1,4 +1,13 @@
-### Hi there 👋
+### JI HYEON ✨
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeemjihyeon&count_bg=%23EB177C&title_bg=%23EB177C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badges&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badges&logo=SpringBoot&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badges&logo=Tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badges&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badges&logo=JavaScript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badges&logo=Visual%20Studio%20Code&logoColor=white)
 
 <!--
 **keemjihyeon/keemjihyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
